@@ -1,4 +1,4 @@
-# Dapr Traffic Control Sample
+# Dapr Traffic Control Sample.
 
 | Attribute            | Details                   |
 | -------------------- | ------------------------- |
